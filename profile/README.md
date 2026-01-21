@@ -65,6 +65,7 @@ This hackathon is designed for:
 - **Concept Board:** [Fraunhofer Conceptboard](https://fraunhofer.conceptboard.com/board/8koa-0dnt-ibcb-q2tx-gbam)
 - **Demo ELN Repository:** [OSL-ELN-Demo](https://github.com/LLM4ELN/osl-eln-demo)
 - **Demo ELN Access:** [https://llm4eln.semos.dev](https://llm4eln.semos.dev) (login via ORCID)
+- **Reference Dataset:** [https://zenodo.org/records/6778336](https://zenodo.org/records/6778336)
 
 ---
 
